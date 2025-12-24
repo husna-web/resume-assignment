@@ -25,7 +25,8 @@ body {
     align-items: center;
 }
 
-header img {
+header img
+{
 
     width: 180px;
     height: 180px;
@@ -65,6 +66,7 @@ a :active {
     justify-content: center;
     align-content: center;
     align-items: center;
+    padding-top: 200px;
 }
 
 #page1 h1 {
